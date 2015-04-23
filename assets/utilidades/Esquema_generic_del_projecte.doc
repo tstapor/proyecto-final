@@ -1,0 +1,106 @@
+{\rtf1\ansi\ansicpg1252\deff0
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype FreeSans;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Symbol;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f3\fnil\fcharset0\fprq0\fttruetype Dingbats;}
+{\f4\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f5\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;}
+{\stylesheet
+{\s1\fi-431\li720\sbasedon28\snext28Contents 1;}
+{\s2\fi-431\li1440\sbasedon28\snext28Contents 2;}
+{\s3\fi-431\li2160\sbasedon28\snext28Contents 3;}
+{\s8\fi-431\li720\sbasedon28Lower Roman List;}
+{\s5\tx431\sbasedon24\snext28Numbered Heading 1;}
+{\s6\tx431\sbasedon25\snext28Numbered Heading 2;}
+{\s7\fi-431\li720Square List;}
+{\*\cs11\sbasedon28Endnote Text;}
+{\s4\fi-431\li2880\sbasedon28\snext28Contents 4;}
+{\s9\fi-431\li720Diamond List;}
+{\s10\fi-431\li720Numbered List;}
+{\*\cs12\fs20\superEndnote Reference;}
+{\s13\fi-431\li720Triangle List;}
+{\s14\tx431\sbasedon26\snext28Numbered Heading 3;}
+{\s15\fi-431\li720Dashed List;}
+{\s16\fi-431\li720\sbasedon10Upper Roman List;}
+{\s17\sb440\sa60\f2\fs24\b\sbasedon28\snext28Heading 4;}
+{\s18\fi-431\li720Heart List;}
+{\s34\fi-431\li720Box List;}
+{\s20\fi-431\li720\sbasedon10Upper Case List;}
+{\s21\fi-431\li720Bullet List;}
+{\s22\fi-431\li720Hand List;}
+{\*\cs23\fs20\sbasedon28Footnote Text;}
+{\s24\sb440\sa60\f2\fs34\b\sbasedon28\snext28Heading 1;}
+{\s25\sb440\sa60\f2\fs28\b\sbasedon28\snext28Heading 2;}
+{\s19\qc\sb240\sa120\f2\fs32\b\sbasedon28\snext28Contents Header;}
+{\s27\fi-431\li720Tick List;}
+{\s26\sb440\sa60\f2\fs24\b\sbasedon28\snext28Heading 3;}
+{\s29\fi-431\li720\sbasedon10Lower Case List;}
+{\s30\li1440\ri1440\sa120\sbasedon28Block Text;}
+{\s36\f5\sbasedon28Plain Text;}
+{\s32\tx1584\sbasedon5\snext28Section Heading;}
+{\s33\fi-431\li720Implies List;}
+{\s28\f4\fs24Normal;}
+{\s35\fi-431\li720Star List;}
+{\*\cs31\fs20\superFootnote Reference;}
+{\s37\tx1584\sbasedon5\snext28Chapter Heading;}}
+{\*\listtable
+{\list\listtemplateid1000\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1}\listid1000}
+{\list\listtemplateid1001\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1}\listid1019}
+{\list\listtemplateid1002\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1}\listid1024}
+{\list\listtemplateid1003\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1}\listid1032}
+{\list\listtemplateid1004\listsimple{\listlevel\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1}\listid1037}}
+{\*\listoverridetable
+{\listoverride\listoverridecount0\listid1000\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1\ls1}
+{\listoverride\listoverridecount0\listid1019\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1\ls2}
+{\listoverride\listoverridecount0\listid1024\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1\ls3}
+{\listoverride\listoverridecount0\listid1032\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1\ls4}
+{\listoverride\listoverridecount0\listid1037\levelnfc23\levelstartat0\levelspace0\levelfollow0\fi-431\li720{\leveltext\'01\'b7 ;}{\levelnumbers;}\f1\ls5}}
+
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\info\uc1}\deftab720\viewkind1\paperw11905\paperh16837\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\pgncont\ltrsect
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs32\b\lang1027{\*\listtag0}\abinodiroverride\ltrch Esquema gen\'e8ric d'un projecte}{\s28\f0\fs32\b\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\b\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\itap0{\s28\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch En aquest document farem una primera aproximaci\'f3 al que seria l'esquema de la  nostra mem\'f2ria del projecte, que coincideix amb les fases en qu\'e8 hem dividit el cicle de vida del projecte.}{\s28\f0\fs20\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\qj\s28\itap0{\s28\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Aquest esquema variar\'e0 en funci\'f3 del tipus de projecte (un projecte de migraci\'f3 de sistemes per exemple, no dedicar\'e0 tant de temps a desenvolupament com un de programari), pel que aquest esquema, aix\'ed com la durada de les diferents fases podr\'e0 variar entre projectes.}{\s28\f0\fs20\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs20\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch El gui\'f3 de projecte del que partirem \'e9s el seg\'fcent:}{\s28\f0\fs20\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs20\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch 1. Introducci\'f3/Marc del projecte}{\s28\f0\fs20\lang1027{\*\listtag0}\par}
+{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1000\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch T\'edtol}{\s21\f0\fs20\lang1027{\*\listtag1001}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1000\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch M\'f2duls o \'e0rea implicada}{\s21\f0\fs20\lang1027{\*\listtag1002}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1000\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Objectius del projecte (Qu\'e8 \'e9s el que es pret\'e9n)}{\s21\f0\fs20\lang1027{\*\listtag1003}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1000\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Tipus de projecte}{\s21\f0\fs20\lang1027{\*\listtag1004}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1000\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Breu descripci\'f3}{\s21\f0\fs20\lang1027{\*\listtag1005}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1000\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Orientacions per al desenvolupament}{\s21\f0\fs20\lang1027{\*\listtag1006}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1000\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls1\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Recursos bibliogr\'e0fics o web de base}{\s21\f0\fs20\lang1027{\*\listtag1007}\par}
+}\pard\plain\ltrpar\ql\s21\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch 2. An\'e0lisi/Estudi de l'estat actual}{\s28\f0\fs20\lang1027{\*\listtag0}\par}
+{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1019\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Estudi o auditoria del sistema actual}{\s21\f0\fs20\lang1027{\*\listtag1020}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1019\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Avaluaci\'f3 de la viabilitat del sistema en funci\'f3 dels objectius}{\s21\f0\fs20\lang1027{\*\listtag1021}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1019\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls2\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch An\'e0lisi dels requeriments del nou sistema}{\s21\f0\fs20\lang1027{\*\listtag1022}\par}
+}\pard\plain\ltrpar\ql\s21\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch 3. Disseny de la soluci\'f3}{\s28\f0\fs20\lang1027{\*\listtag0}\par}
+{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1024\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch An\'e0lisi de les possibles solucions}{\s21\f0\fs20\lang1027{\*\listtag1025}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1024\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Avaluaci\'f3 de les possibles solucions}{\s21\f0\fs20\lang1027{\*\listtag1026}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1024\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Descripci\'f3 de la soluci\'f3 escollida}{\s21\f0\fs20\lang1027{\*\listtag1027}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1024\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Definici\'f3 de les tasques i subtasques en qu\'e8 dividirem el projecte}{\s21\f0\fs20\lang1027{\*\listtag1028}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1024\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Estimaci\'f3 del cost temporal de cadascuna de les tasques}{\s21\f0\fs20\lang1027{\*\listtag1029}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1024\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls3\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Estimaci\'f3 del cost econ\'f2mic}{\s21\f0\fs20\lang1027{\*\listtag1030}\par}
+}\pard\plain\ltrpar\ql\s21\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch 4. Desenvolupament de la soluci\'f3}{\s28\f0\fs20\lang1027{\*\listtag0}\par}
+{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1032\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls4\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Dotaci\'f3 de recursos}{\s21\f0\fs20\lang1027{\*\listtag1033}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1032\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls4\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Configuraci\'f3 i/o desenvolupament del sistema}{\s21\f0\fs20\lang1027{\*\listtag1034}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1032\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls4\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Avaluaci\'f3 del sistema}{\s21\f0\fs20\lang1027{\*\listtag1035}\par}
+}\pard\plain\ltrpar\ql\s21\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch 5. Implantaci\'f3 de la soluci\'f3}{\s28\f0\fs20\lang1027{\*\listtag0}\par}
+{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1037\abilistparentid0\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls5\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Definir les fases d'implantaci\'f3/migraci\'f3}{\s21\f0\fs20\lang1027{\*\listtag1038}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1037\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls5\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Inventari de maquinari i programari}{\s21\f0\fs20\lang1027{\*\listtag1039}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1037\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls5\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Diagrames de xarxa i estructura}{\s21\f0\fs20\lang1027{\*\listtag1040}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1037\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls5\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Migraci\'f3/Implantaci\'f3 de serveis}{\s21\f0\fs20\lang1027{\*\listtag1041}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1037\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls5\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Formaci\'f3, comunicaci\'f3 i suport a l'usuari}{\s21\f0\fs20\lang1027{\*\listtag1042}\par}
+}{\listtext\pard\fi-431\li720\bullet 	}\pard\plain{\ltrpar\ql\fi-431\li720\s21{\*\abilist\abilistid1037\abilistlevel1\abistartat0{\abifieldfont Symbol}{\abilistdecimal NULL}{\abilistdelim %L}{\abiliststyle Bullet List}}{\*\pn\pnql\pnstart0\pnlvlblt{\pntxtb\bullet}}\ls5\ilvl0\itap0{\s21\f0\fs20\lang1027{\*\listtag0}\abinodiroverride\ltrch Calendari d'execuci\'f3}{\s21\f0\fs20\lang1027{\*\listtag1043}\par}
+}\pard\plain\ltrpar\ql\s21\itap0{\s21\f4\fs24\lang1027{\*\listtag0}\par}}
