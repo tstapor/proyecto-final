@@ -1,0 +1,66 @@
+/********************************************************************
+* ESTILO.CSS--> ESTILOS PERSONALIZADOS                              *                         *
+********************************************************************/
+
+/************************************************
+* BODY ETC                                      *
+************************************************/
+.container-fluid {
+	background-image: url('../img/bg1.png');
+}
+.row {
+	background-image: url('../img/bg2.png');
+}
+body {
+	color: white;
+}
+
+/************************************************
+* FORM INPUTS                                   *
+************************************************/
+#login{
+	margin-top: 30px;
+	float:right;
+}
+::-webkit-input-placeholder {
+   color: red;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: red;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: red;  
+}
+
+:-ms-input-placeholder {  
+   color: red;  
+}
+input {
+	color: black !important;
+}
+input[type='text'], input[type='password'] {
+	width: 100px;
+}
+.btn {
+ padding: 1px 12px;
+}
+/************************************************
+* MENU                                          *
+************************************************/
+#wrap header {
+	padding-bottom: 0 !important; 
+}
+ul.sub-menu {
+	top: 14px !important;
+}
+#main-menu li a {
+	line-height: 9px !important;
+}
+i {
+	font-size: 35px !important;
+}
+#main-menu li a {
+	border: none !important;
+}
